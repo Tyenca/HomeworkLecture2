@@ -1,0 +1,3 @@
+Student name: Tyenca de Graf
+Student number: 628058
+Student class: IT1C
